@@ -1,0 +1,18 @@
+.paragraph {
+    background-color: rgba(250, 155, 155, 0.7);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#numba2 {
+    color: rgb(0 0 252);
+    font-size: 36px;
+}
+
+#numba3{
+    font-size: 24px;
+}
+#numba4 {
+    background-color: rgba(142, 250, 142, 0.6);
+    font-size: 24px;
+    font-weight: bold;
+}
